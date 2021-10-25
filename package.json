@@ -10,5 +10,9 @@
   "devDependencies": {
     "nodemon": "1.18.4"
   },
-  "keywords": []
+  "keywords": [],
+  "name": "country-bounds",
+  "dependencies": {
+    "node-fetch": "2.6.5"
+  }
 }
